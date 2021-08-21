@@ -128,7 +128,7 @@
         }, {
             "url": "https://github.com/rking32/heroku-buildpack-google-chrome"
         }, {
-            "url": "https://github.com/rking32/heroku-buildpack-chromedriver"
+            "url": "https://github.com/heroku/heroku-buildpack-chromedriver"
         }, {
             "url": "https://github.com/heroku/heroku-buildpack-apt.git"
         }, {
